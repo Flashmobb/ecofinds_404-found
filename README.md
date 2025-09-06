@@ -23,10 +23,8 @@ EcoFinds is a Python Tkinter app that allows users to buy and sell second-hand p
 ---
 
 ## How to Run
-1. Clone the repository:  
-   `git clone https://github.com/<USERNAME>/<REPO>.git`
-2. Navigate to the project folder:  
+1. Navigate to the project folder:  
    `cd EcoFindsApp`
-3. Run the main Python file:  
+2. Run the main Python file:  
    `python main.py`
 
