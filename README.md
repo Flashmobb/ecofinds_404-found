@@ -1,7 +1,7 @@
 # EcoFinds - Sustainable Second-Hand Marketplace
 
 **Description:**  
-EcoFinds is a Python Tkinter app that allows users to buy and sell second-hand products and earn Eco Points.
+EcoFinds is a Python Tkinter app that allows users to buy and sell second-hand products.
 
 ---
 
@@ -11,7 +11,7 @@ EcoFinds is a Python Tkinter app that allows users to buy and sell second-hand p
 - Add products to cart and wishlist
 - Purchase items with Cash or UPI
 - Track purchases
-- Eco Points for each purchase
+
 
 ---
 
