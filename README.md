@@ -24,7 +24,7 @@ EcoFinds is a Python Tkinter app that allows users to buy and sell second-hand p
 
 ## How to Run
 1. Navigate to the project folder:  
-   `cd EcoFindsApp`
+   `ECOFINSAPP 404 FOUND`
 2. Run the main Python file:  
    `python main.py`
 
